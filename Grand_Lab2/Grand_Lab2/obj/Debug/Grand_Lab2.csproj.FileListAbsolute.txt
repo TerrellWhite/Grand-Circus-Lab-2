@@ -1,0 +1,7 @@
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\obj\Debug\Grand_Lab2.csprojAssemblyReference.cache
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\obj\Debug\Grand_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\bin\Debug\Grand_Lab2.exe.config
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\bin\Debug\Grand_Lab2.exe
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\bin\Debug\Grand_Lab2.pdb
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\obj\Debug\Grand_Lab2.exe
+C:\Users\jusja\source\repos\Grand_Lab2\Grand_Lab2\obj\Debug\Grand_Lab2.pdb
